@@ -26,7 +26,7 @@ body {
 }
 
 .logo .logo__text {
-  font-family: "Roboto";
+  font-family: "Roboto-Medium";
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -48,7 +48,7 @@ h1 {
   margin-top: 20px;
   margin-bottom: 20px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-Black";
   font-style: normal;
   font-weight: 900;
   font-size: 41px;
@@ -63,7 +63,7 @@ h1 {
   margin-top: 20px;
   margin-bottom: 20px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-Black";
   font-style: normal;
   font-weight: 900;
   font-size: 80px;
@@ -75,7 +75,7 @@ h1 {
 }
 
 .section-head .section__text {
-  font-family: "Roboto Light";
+  font-family: "Roboto-Light";
   font-style: normal;
   font-weight: 300;
   font-size: 21px;
@@ -90,7 +90,7 @@ h1 {
 }
 
 .section-head .section__text span {
-  font-family: "Roboto - Bold";
+  font-family: "Roboto-Bold";
   font-weight: 700;
 
   color: #f9bf3b;
@@ -109,7 +109,7 @@ h1 {
   border: 1px solid rgba(0, 0, 0, 0.18);
   box-shadow: 1px -1px 0px rgba(0, 0, 0, 0.18);
 
-  font-family: "RobotoCondensed";
+  font-family: "Roboto-ThinItalic";
   font-size: 21px;
 
   text-align: center;
@@ -124,7 +124,7 @@ h1 {
 
 .section__more {
   margin-top: 70px;
-  font-family: "Roboto";
+  font-family: "Roboto-Thin";
   font-style: normal;
   font-weight: 100;
   font-size: 15px;
@@ -136,7 +136,7 @@ h1 {
 }
 
 .section__more .more__text {
-  font-family: "Roboto";
+  font-family: "Roboto-Thin";
   font-style: normal;
   font-weight: 100;
   font-size: 15px;
@@ -163,7 +163,7 @@ h1 {
 
 .section-second__header,
 .section-fourth__header {
-  font-family: "Roboto";
+  font-family: "Roboto-Regular";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -187,7 +187,7 @@ h1 {
 }
 
 .section-second__subheader {
-  font-family: "Roboto";
+  font-family: "Roboto-Regular";
   font-style: normal;
   font-weight: 400;
   font-size: 23px;
@@ -215,7 +215,7 @@ h1 {
 }
 
 .wrapper__description {
-  font-family: "Roboto";
+  font-family: "Roboto-LightItalic";
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -238,7 +238,7 @@ h1 {
 .third-section__header {
   margin-left: 389px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-Black";
   font-style: normal;
   font-weight: 900;
   font-size: 30px;
@@ -252,7 +252,7 @@ h1 {
   margin-left: 389px;
   margin-top: 25px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-Light";
   font-style: normal;
   font-weight: 300;
   font-size: 17px;
@@ -317,7 +317,7 @@ h1 {
   vertical-align: top;
   margin-top: 24px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-Light";
   font-style: normal;
   font-weight: 300;
   font-size: 17px;
@@ -344,7 +344,7 @@ h1 {
 .fifth__text {
   margin-top: 45px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-LightItalic";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -374,7 +374,7 @@ h1 {
 .sixth__header {
   margin-top: 36px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-LightItalic";
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -388,7 +388,7 @@ h1 {
 .sixth__data {
   margin-top: 30px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-Black";
   font-style: normal;
   font-weight: 900;
   font-size: 36px;
@@ -402,7 +402,7 @@ h1 {
 .sixth__subheader {
   margin-top: 24px;
 
-  font-family: "Roboto";
+  font-family: "Roboto-LightItalic";
   font-style: normal;
   font-weight: 400;
   font-size: 23px;
@@ -440,7 +440,7 @@ a {
 
 .number {
   margin-top: 6px;
-  font-family: "Roboto";
+  font-family: "Roboto-Light";
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
